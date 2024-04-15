@@ -13,7 +13,7 @@ I am excited to showcase my recent technical project, the "Amazon Clone," where 
 ✅ Utilized HTML and CSS to ensure pixel-perfect precision in layout and styling.
 
 ## Learning Outcomes:
-Throughout this project, I gained invaluable hands-on experience in front-end web development, honed my attention to detail, and improved my problem-solving skills. By emulating a complex and well-established website like Amazon, I had the opportunity to dive deep into the intricacies of HTML and CSS, mastering the art of building user-friendly, visually appealing web interfaces.
+Throughout this project, I gained invaluable hands-on experience in front-end web development, honed my attention to detail, and improved my problem-solving skills. By emulating a complex and well-established website like Amazon, I had the opportunity to dive deep into the intricacies of HTML and CSS, mastering the art of building user-friendly, visually appealing web interfaces....
 
 ## Results :
 My Amazon Clone project has been well-received by peers and mentors, serving as a testament to my dedication to the field of web development. I continue to refine and expand upon this project to further enhance my skills and stay up-to-date with the latest industry trends.
