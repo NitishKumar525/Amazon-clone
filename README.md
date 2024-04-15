@@ -1,7 +1,7 @@
 ## Amazon Clone Project
 
 ## Description:
-I am excited to showcase my recent technical project, the "Amazon Clone," where I meticulously crafted a full-fledged Amazon replica using HTML and CSS. This project allowed me to combine my passion for web development with the challenge of recreating one of the world's most renowned e-commerce platforms.
+I am excited to showcase my recent technical project, the "Amazon Clone," where I meticulously crafted a full-fledged Amazon replica using HTML and CSS. This project allowed me to combine my passion for web development with the challenge of recreating one of the world's most renowned e-commerce platforms...
 
 ## Key Features:
 ✅ Authentically replicated Amazon's user interface and design.
